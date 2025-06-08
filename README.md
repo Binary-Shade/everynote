@@ -1,2 +1,0 @@
-# everynote
-kapybara technical assessment
