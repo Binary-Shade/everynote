@@ -1,6 +1,5 @@
-# create-t3-turbo
+# EVERYNOTE
 
-This is a fork of `create-t3-app` modified to use [Better Auth](https://better-auth.com) instead of NextAuth.
 
 Better Auth is a framework-agnostic authentication and authorization library for TypeScript. It offers a comprehensive set of built-in features and a plugin ecosystem.
 
